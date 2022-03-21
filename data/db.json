@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum bidule chouette",
+      "complete": false
+    },
+    {
+      "title": "Ceci est un nouveau projet",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque quibusdam, consequatur culpa exercitationem fuga eveniet aliquid incidunt omnis porro corporis sequi quae labore nobis ipsum ipsa magnam cupiditate dolor molestiae! Inventore eos temporibus sint molestias laboriosam delectus accusamus aut voluptatem debitis rerum corrupti quo sapiente incidunt error repellat ea eum voluptates, enim doloremque perferendis tenetur quisquam autem? Asperiores placeat consectetur omnis delectus, ad dolores earum commodi nihil iusto distinctio odio laboriosam, voluptas quaerat facilis nemo eos sapiente exercitationem vitae nobis animi fugiat beatae rem! Recusandae, nostrum voluptas non officia aspernatur accusantium assumenda pariatur a voluptatum culpa natus architecto maxime ex",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "test nouveau projet",
+      "details": "Details all about details.\nDetails all about details.\nDetails all about details.\nDetails all about details.\n",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
